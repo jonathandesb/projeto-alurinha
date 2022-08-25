@@ -2,10 +2,13 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+   
+  
 }
 
 .cabecalhoPrincipal-nav {
     display: flex;
+  
 }
 
  .rodapePrincipal-patrocinadores-list {
@@ -14,6 +17,8 @@
   
 
 }
+
+
 
 .rodapePrincipal-patrocinadores  .container{
     display: flex;
@@ -27,7 +32,7 @@
     width: 70%;
     margin-right: 5%;
 
-}¨
+}
 
 .rodapePrincipal-contatoForm {
     width: 25%;
